@@ -1,0 +1,9 @@
+# think-tool
+
+Use this tool to think about something. It will not obtain new information or change anything, but just append the thought to the log.
+Use it when complex reasoning or cache memory is needed.
+See also https://www.anthropic.com/engineering/claude-think-tool.
+
+Usage:
+
+$ go install changkun.de/x/think-tool@latest
